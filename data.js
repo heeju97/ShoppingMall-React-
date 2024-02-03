@@ -45,10 +45,10 @@ let data = [
 
 ]
 
-const temp1 =[1, 2, 3];
-const temp2 = [4, 5, 6];
+// const temp1 =[1, 2, 3];
+// const temp2 = [4, 5, 6];
 
-const temp3 = [1,2,3,...temp2];
-console.log(temp3);
+// const temp3 = [1,2,3,...temp2];
+// console.log(temp3);
 
 export default data ;
